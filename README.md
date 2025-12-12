@@ -119,7 +119,7 @@ A **geographic OU structure** was chosen for the following reasons:
 
 | GPO Name | Settings | Linked To |
 |----------|----------|-----------|
-| Default Password Policy | 12+ characters, complexity enabled, 90-day expiration, 5 failed attempts lockout, 30-minute lockout duration | Domain |
+| Default Password Policy | 12+ characters, complexity enabled, 90-day expiration, 3 failed attempts lockout, 10-minute lockout duration | Domain |
 | Global Audit Policy | Audit logon success/failure, account management, policy changes | Domain |
 
 ### Location-Level Policies
@@ -204,7 +204,7 @@ Description: User properties showing department and title
 Description: Security group membership
 
 ---
-<img width="1024" height="768" alt="VirtualBox_DC01-NYC_12_12_2025_12_53_57" src="https://github.com/user-attachments/assets/de047dad-6420-4678-ab6b-90558978a3a1" />
+<img width="1024" height="768" alt="VirtualBox_DC01-NYC_12_12_2025_14_13_50" src="https://github.com/user-attachments/assets/a3e63bd5-8ced-4e77-9b61-b25aae3cb8a3" />
 
 <img width="1024" height="768" alt="VirtualBox_DC01-NYC_12_12_2025_13_04_56" src="https://github.com/user-attachments/assets/d65305ec-b963-4d00-b67b-dfc715be585a" />
 

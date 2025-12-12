@@ -240,7 +240,7 @@ This on-premises Active Directory environment serves as the foundation for:
 - **Azure AD Join** — Device management through Microsoft Intune
 - **Single Sign-On** — Seamless access to cloud applications
 
-See the companion project: [The Merchandise Vault — Hybrid Identity Infrastructure](link-to-hybrid-project)
+See the companion project: [The Merchandise Vault — Hybrid Identity Infrastructure](https://github.com/Nkd-hue/Enterprise-Hybrid-Identity-Infrastructure)
 
 ---
 
@@ -258,7 +258,7 @@ See the companion project: [The Merchandise Vault — Hybrid Identity Infrastruc
 
 **Nadia Kroduah**  
 Identity and Access Management Professional  
-[LinkedIn](your-linkedin-url)
+[LinkedIn](www.linkedin.com/in/nadia-kroduah)
 
 ---
 

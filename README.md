@@ -126,9 +126,9 @@ A **geographic OU structure** was chosen for the following reasons:
 
 | GPO Name | Settings | Linked To |
 |----------|----------|-----------|
-| NYC-Workstation-Policy | Screen lock after 10 minutes, prevent control panel access for non-IT | Locations/New York |
-| LON-Workstation-Policy | Screen lock after 10 minutes, regional settings for UK | Locations/London |
-| SG-Workstation-Policy | Screen lock after 10 minutes, regional settings for Singapore | Locations/Singapore |
+| NYC-Workstation-Policy | Screen lock after 5 minutes, prevent control panel access for non-IT | Locations/New York |
+| LON-Workstation-Policy | Screen lock after 5 minutes, regional settings for UK | Locations/London |
+| SG-Workstation-Policy | Screen lock after 5 minutes, regional settings for Singapore | Locations/Singapore |
 
 ---
 
